@@ -1,0 +1,11 @@
+.DS_Store
+dist
+build
+api/libs/shared
+api/libs/static
+api/libs/LICENSE.GPL
+api/libs/indigo-inchi.h
+api/libs/indigo-renderer.h
+api/libs/indigo.h
+api/src/indigo_version.h
+third_party/cairo-src/cairo/src/cairo-features.h
