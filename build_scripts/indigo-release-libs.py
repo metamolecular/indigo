@@ -21,6 +21,7 @@ presets = {
     "mac10.7" : ("Xcode", "-DSUBSYSTEM_NAME=10.7"),
     "mac10.8" : ("Xcode", "-DSUBSYSTEM_NAME=10.8"),
     "mac10.9" : ("Xcode", "-DSUBSYSTEM_NAME=10.9"),
+    "mac10.11" : ("Xcode", "-DSUBSYSTEM_NAME=10.11"),
 }
 
 parser = OptionParser(description='Indigo libraries build script')
